@@ -1,0 +1,24 @@
+<resources>
+
+  <string name="app_name">Preferences</string>
+  <string name="student_name">Student Name</string>
+  <string name="student_address">Student Address</string>
+  <string name="enrolled">Enrolled?</string>
+  <string name="show_address_field">Show Address field</string>
+  <string name="year">Year</string>
+  <string name="hide">Hide</string>
+  <string name="show">Show</string>
+
+  <string name="pref_student_name" translatable="false">pref_student_name</string>
+  <string name="pref_show_address" translatable="false">pref_show_address</string>
+  <string name="pref_year" translatable="false">pref_year</string>
+  <string name="not_set">Not Set</string>
+
+  <string-array name="pref_student_year_labels">
+    <item>Freshman</item>
+    <item>Sophomore</item>
+    <item>Junior</item>
+    <item>Senior</item>
+  </string-array>
+
+</resources>
